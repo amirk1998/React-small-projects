@@ -57,7 +57,7 @@ function App() {
         ></textarea>
         <button
           onClick={textToSpeechHandler}
-          className='w-full px-0 py-4 border-0 rounded-lg bg-indigo-300 hover:bg-indigo-400 transition-all duration-200 ease-in-out '
+          className='w-full px-0 py-4 border-0 rounded-lg bg-indigo-300 hover:bg-indigo-400 transition-all duration-200 ease-in'
         >
           {buttonText}
         </button>
